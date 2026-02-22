@@ -1,4 +1,4 @@
-import numpy_practice as np
+import numpy as np
 
 #Create a NumPy array containing numbers from 10 to 50 with step 5.
 def qn1():
